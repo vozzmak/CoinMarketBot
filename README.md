@@ -29,6 +29,7 @@ To run this project locally, you will need:
 ## Setup Instructions
 
 1. **Clone the repository**:
+
 2. **Configure Docker**:
 
 Update the docker-compose.yml file according to your environment.
@@ -44,7 +45,7 @@ Navigate to src/main/java/com.telegram.coinmarketbot/services/ApiService and add
 
 Open the project in an IDE like IntelliJ IDEA.
 Run the project and monitor the console for bot activities.
-Open the bot in Telegram, you can get cryptucurrency rate in USD by sending the name or symbol of currency, for example Bitcoin or BTC(bot ignores case).
+Open the bot in Telegram, you can fetch real-time cryptocurrency in USD by sending the name or symbol of currency, for example Bitcoin or BTC(bot ignores case).
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.

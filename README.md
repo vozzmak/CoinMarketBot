@@ -32,6 +32,7 @@ To run this project locally, you will need:
 2. **Configure Docker**:
 
 Update the docker-compose.yml file according to your environment.
+
 3. **Set up Application Properties**:
 
 Navigate to src/main/resources/application.properties.

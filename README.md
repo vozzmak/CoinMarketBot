@@ -29,17 +29,17 @@ To run this project locally, you will need:
 ## Setup Instructions
 
 1. **Clone the repository**:
-2. **Configure Docker:
+2. **Configure Docker**:
 
 Update the docker-compose.yml file according to your environment.
-3. **Set up Application Properties:
+3. **Set up Application Properties**:
 
 Navigate to src/main/resources/application.properties.
 Add your bot name, bot token. 
 
 Navigate to src/main/java/com.telegram.coinmarketbot/services/ApiService and add CoinMarketCap API key.
 
-4. **Run the Application:
+4. **Run the Application**:
 
 Open the project in an IDE like IntelliJ IDEA.
 Run the project and monitor the console for bot activities.
